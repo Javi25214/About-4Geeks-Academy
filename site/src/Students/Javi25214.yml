@@ -1,0 +1,43 @@
+# Personal Information
+basic_info:
+  # Your full name
+  first_name: Javier
+  last_name: Frances
+
+  # You have 1 paragraph to make a great impression, summarize your career.
+  summary:
+  Estuve en el Bootcamp 4geeks Academy, el cual me permitio reforzar los conocimientos
+  que previamente forme como autodidacta. En el aprendí tecnologias como JavaScript,
+  React, Bootstrap, Flux , Python, Sql, SqlAlchemy, Flask, Jwt, Jest y Habilidades como
+  el trabajo grupal con gi
+
+  # Your profile picture URL
+  # If you don't have it as a URL you can place the picture inside /static/profile-images/ and the generated link will be http://sep.breatheco.de/static/profile-images/<your file name>
+  avatar: https://randomuser.me/api/portraits/women/24.jpg
+
+  # Contact Information
+  email: javitoyrsotia@gmail.com #optional
+  phone: 633 78 19 19 #optional
+
+  #
+  # ******** IMPORTANT *******
+  # This github username will be use to generate your public profile URL like this: http://sep.breatheco.de/sharu725
+  github: Javi25214
+
+
+
+
+  # Interests or hobies
+  interests:
+    - item: VideoGames
+
+# Your previous education
+education:
+  - degree: ESO
+    academy: Liceo Villa de Mostoles
+    # optional
+    university_logo: https://yt3.googleusercontent.com/ytc/AL5GRJUenNHr8O2Umu-lGV1EgfcRUEPwofIOK9eRWD-6=s900-c-k-c0x00ffffff-no-rj
+    time:
+    details:
+    
+ 
